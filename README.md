@@ -13,7 +13,6 @@
 
 ## 仓库文件
 
-- `540339523_QBUS6860_Individual_Assignment.ipynb`：完成数据读取、清洗、分析与可视化的主脚本（Jupyter Notebook）。
 - `Visualization.ipynb`：完成数据读取、清洗、分析与可视化的主脚本（Jupyter Notebook）。
 
 ---
@@ -157,7 +156,7 @@ Notebook 同时会过滤掉与 `SUA_NAME_2021` 包含 `Outside Australia` 相关
 ### 3) 运行方式
 
 打开并运行：
-- `540339523_QBUS6860_Individual_Assignment.ipynb`
+- `Visualization.ipynb`
 
 ---
 
