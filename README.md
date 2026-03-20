@@ -14,6 +14,7 @@
 ## 仓库文件
 
 - `540339523_QBUS6860_Individual_Assignment.ipynb`：完成数据读取、清洗、分析与可视化的主脚本（Jupyter Notebook）。
+- `Visualization.ipynb`：完成数据读取、清洗、分析与可视化的主脚本（Jupyter Notebook）。
 
 ---
 
